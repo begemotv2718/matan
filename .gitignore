@@ -2,3 +2,6 @@
 *.log
 _*
 *.aux
+*.mpx
+*.eps
+*.pdf
